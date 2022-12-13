@@ -1,21 +1,28 @@
-### Hi there 👋
+### 👋 Hi there
 
 My name is Vess.
 
-## Currently
+## ⚡ Currently
 
  - Dungeons and Dragons (Weekly Session)
  - Fallout 2d20 (Weekly Session)
- - Programming for Advent of Code
+ - Programming for Advent of Code.
+ - Writing, reading, cycling.
+ 
+ - Decent with Rust and Python.
+ - Okay with JS / HTML / CSS.
+ - Familiar with Lua, Bash, Java.
+ - Once looked at ASM, C, C++.
 
-## Self
+## 🌱 Self
 
 Pronouns: They/them. Any are fine.
 
-## How to reach me:
+## 📫 How to reach me:
 
  - [My website](https://vess-dev.github.io/)
- - Via eail (see Website)
+ - Via email. (See website)
+ - Resume available for serious requests.
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vess-dev&show_icons=true&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
 
