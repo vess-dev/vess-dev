@@ -9,9 +9,11 @@ My name is Vess.
  - Programming for Advent of Code.
  - Writing, reading, cycling.
  
+## 🔭 History
+
  - Decent with Rust and Python.
- - Okay with JS / HTML / CSS.
- - Familiar with Lua, Bash, Java.
+ - Okay with JS, HTML, CSS.
+ - Familiar with Java, Bash, Lua.
  - Once looked at ASM, C, C++.
 
 ## 🌱 Self
