@@ -14,7 +14,7 @@ Pronouns: They/them. Any are fine.
 
 ## How to reach me:
 
- - [My website](https://vess-dev.github.io/
+ - [My website](https://vess-dev.github.io/)
  - Via eail (see Website)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vess-dev&show_icons=true&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
