@@ -13,8 +13,8 @@ My name is Vess.
 
  - Decent with Rust and Python.
  - Okay with JS, HTML, CSS.
- - Familiar with Java, Bash, Lua.
- - Once looked at ASM, C, C++.
+ - Familiar with Java, Lua, Bash.
+ - Once looked at C++, C, ASM.
 
 ## 🌱 Self
 
