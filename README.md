@@ -4,16 +4,15 @@ My name is Vess.
 
 ## ⚡ Currently
 
- - Dungeons and Dragons (Weekly Session)
  - Fallout 2d20 (Weekly Session)
  - Programming for Advent of Code.
- - Writing, reading, cycling.
+ - Writing, reading, and cycling.
  
 ## 🔭 History
 
  - Decent with Rust and Python.
- - Okay with JS, HTML, CSS.
- - Familiar with Java, Lua, Bash.
+ - Okay with JS, CSS, HTML.
+ - Familiar with SQL, Java, Bash.
  - Once looked at C++, C, ASM.
 
 ## 🌱 Self
