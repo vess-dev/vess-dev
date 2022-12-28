@@ -21,7 +21,7 @@ Pronouns: They/them. Any are fine.
 
 ## 📫 How to reach me:
 
- - [My website](https://vess-dev.github.io/)
+ - [My website.](https://vess-dev.github.io/)
  - Via email. (See website)
  - Resume available for serious requests.
 
