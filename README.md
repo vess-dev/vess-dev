@@ -4,8 +4,8 @@ My name is Vess.
 
 ## ⚡ Currently
 
- - Fallout 2d20 (Weekly Session)
  - Pathfinder 2e (Weekly Session)
+ - Fallout 2d20 (Weekly Session)
  - Programming for Advent of Code.
  - Writing, reading, and cycling.
  
