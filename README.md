@@ -25,7 +25,9 @@ Pronouns: They/them. Any are fine.
  - Via email. (See website)
  - Resume available for serious requests.
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vess-dev&show_icons=true&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
+![Vess's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=vess-dev&show_icons=true&theme=github_dark)
+
+![Vess's GitHub stats](https://github-readme-stats.vercel.app/api?username=vess-dev&show_icons=true&theme=github_dark)
 
 <!--
 - 🔭 I’m currently working on ...
