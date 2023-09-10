@@ -10,10 +10,10 @@ My name is Vess.
  
 ## 🔭 History
 
- - Decent with Rust and Python.
- - Okay with JS, CSS, HTML.
- - Familiar with SQL, Java, Bash.
- - Once looked at C++, C, ASM.
+ - Decent with Lua, Python, and Rust.
+ - Okay with CSS, HTML, JS, and SQL.
+ - Familiar with Bash, Java, and Matlab.
+ - Once looked at ASM, C, and C++.
 
 ## 🌱 Self
 
