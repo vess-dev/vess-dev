@@ -1,6 +1,8 @@
 ### 👋 Hi there
 
 My name is Vess.
+Pronouns: They/them.
+Any are fine.
 
 ## ⚡ Currently
 
@@ -14,10 +16,6 @@ My name is Vess.
  - Okay with CSS, HTML, JS, and SQL.
  - Familiar with Bash, Java, and Matlab.
  - Once looked at ASM, C, and C++.
-
-## 🌱 Self
-
-Pronouns: They/them. Any are fine.
 
 ## 📫 How to reach me:
 
