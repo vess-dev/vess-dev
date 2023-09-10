@@ -1,8 +1,8 @@
 ### 👋 Hi there
 
 My name is Vess.
+
 Pronouns: They/them.
-Any are fine.
 
 ## ⚡ Currently
 
