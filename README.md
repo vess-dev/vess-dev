@@ -3,13 +3,13 @@
 My name is Vess.
 
 
-Pronouns: They/them.
+Pronouns: they/them.
 
 ## ⚡ Currently
 
  - Blades in the Dark (Weekly Session)
  - Programming for Advent of Code.
- - Writing, reading, and cycling.
+ - Cycling, reading, and writing.
  
 ## 🔭 History
 
