@@ -13,10 +13,10 @@ Pronouns: they/them.
  
 ## 🔭 History
 
- - Decent with Lua, Python, and Rust.
+ - Decent with Python, and Rust.
  - Okay with CSS, HTML, JS, and SQL.
- - Familiar with Bash, Java, and Matlab.
- - Once looked at ASM, C, and C++.
+ - Familiar with Bash, Lua, and Java.
+ - Once looked at ASM, C, C++, and Matlab.
 
 ## 📫 How to reach me:
 
