@@ -1,7 +1,8 @@
-### 👋 Hi there
+# 👋 Hi there!
 
 My name is Vess.
 
+<ins>PLEASE HIRE ME.</ins>
 
 Pronouns: they/them.
 
@@ -18,7 +19,7 @@ Pronouns: they/them.
  - Familiar with Bash, Lua, and Java.
  - Once looked at ASM, C, C++, and Matlab.
 
-## 📫 How to reach me:
+## 📫 How to Reach Me:
 
  - [My website.](https://vess-dev.github.io/)
  - Via email. (See website)
