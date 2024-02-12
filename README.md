@@ -2,13 +2,11 @@
 
 My name is Vess.
 
-<ins>PLEASE HIRE ME.</ins>
-
 Pronouns: they/them.
 
 ## ⚡ Currently
 
- - Blades in the Dark (Weekly Session)
+ - Weekly sessions of TTRPGs.
  - Programming for Advent of Code.
  - Cycling, reading, and writing.
  
