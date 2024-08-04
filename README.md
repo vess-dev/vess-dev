@@ -12,8 +12,8 @@ Pronouns: they/them.
  
 ## 🔭 History
 
- - Decent with Python, and Rust.
- - Okay with CSS, HTML, JS, and SQL.
+ - Decent with Golang, Python, and Rust.
+ - Okay with CSS, HTML, JS, SQL, and Vue.
  - Familiar with Bash, Lua, and Java.
  - Once looked at ASM, C, C++, and Matlab.
 
