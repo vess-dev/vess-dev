@@ -25,8 +25,6 @@ Pronouns: they/them.
 
 ![Vess's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=vess-dev&show_icons=true&theme=github_dark)
 
-![Vess's GitHub stats](https://github-readme-stats.vercel.app/api?username=vess-dev&show_icons=true&theme=github_dark)
-
 <!--
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
